@@ -1,10 +1,10 @@
-<h1 align="center">Meu GitHub</h1>
+<h1 align="center">My GitHub</h1>
 
-- 📌 Gosto de tecnologia e programação.
+- 📌 I like technology and programming.
 
-- 🎯 Tenho interesse no Front-End.
+- 🎯 I'm interested in the Front-End.
 
-- ✔ Em breve farei projetos legais e úteis.
+- ✔ Soon I will make cool and useful projects.
 
 - ➡ "Let's code"
 
