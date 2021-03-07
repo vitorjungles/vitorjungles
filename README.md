@@ -9,4 +9,4 @@
 - ➡ "Let's code"
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&theme=radical&custom_title=My+Stats" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjungles" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjungles&custom_title=Most+Used+Technologies" /> </p>
