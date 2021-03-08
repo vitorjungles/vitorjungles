@@ -2,10 +2,10 @@
 
 - :pushpin: I like technology and programming.
 
-- 🎯 I'm interested in the Front-End.
+- :dart: I'm interested in the Front-End.
 
-- ✔ Soon I will make cool and useful projects.
+- :heavy_check_mark: Soon I will make cool and useful projects.
 
-- ➡ "Let's code"
+- :arrow_right: "Let's code"
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&theme=radical&custom_title=My+Stats" /></p>
