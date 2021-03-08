@@ -1,6 +1,6 @@
-<h1 align="center">My GitHub</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vítor Jungles</h1>
 
-- 📌 I like technology and programming.
+- :pushpin: I like technology and programming.
 
 - 🎯 I'm interested in the Front-End.
 
@@ -8,5 +8,4 @@
 
 - ➡ "Let's code"
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&theme=radical&custom_title=My+Stats" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjungles&custom_title=Most+Used+Technologies" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&theme=radical&custom_title=My+Stats" /></p>
