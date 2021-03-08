@@ -15,4 +15,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&theme=algolia&custom_title=Vítor+Jungles's+GitHub+Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&custom_title=Vítor+Jungles's+GitHub+Stats" /></p>
