@@ -4,8 +4,6 @@
 
 - :dart: I'm interested in the Front-End.
 
-- :heavy_check_mark: Soon I will make cool and useful projects.
-
 - :arrow_right: "Let's code"
 
 **Technologies:**
