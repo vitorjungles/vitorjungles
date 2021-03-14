@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />, I'm Vítor Jungles</h1>
 
-<img src="https://komarev.com/ghpvc/?username=vitorjungles" alt="vitorjungles" />
-
 - :pushpin: I like technology and programming.
 
 - :dart: I'm interested in the Front-End.
