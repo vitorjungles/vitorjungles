@@ -19,7 +19,9 @@
   **Social Media:**
 
   <p>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <a href="https://www.linkedin.com/in/v%C3%ADtor-jungles/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
   </p>
 
   <p>
