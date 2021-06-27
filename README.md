@@ -1,17 +1,28 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />, I'm Vítor Jungles</h1>
+<div align="center">
+  <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />, I'm Vítor Jungles</h1>
 
-- :pushpin: I like technology and programming.
+  :rocket: I'm a front-end developer who never stops learning.
 
-- :dart: I'm interested in the Front-End.
+  ``console.log("Let's code")``
 
-- :arrow_right: "Let's code"
+  **Skills:**
 
-**Skills:**
+  <p>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <br>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+  </p>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="20" height="20" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" /></p>
+  **Social Media:**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&theme=react&custom_title=Vítor+Jungles's+GitHub+Stats" /></p>
+  <p>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&theme=react&custom_title=Vítor+Jungles's+GitHub+Stats" width="400" height="200" />
+  </p>
+</div>
