@@ -1,10 +1,6 @@
 <div align="center">
   <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />, I'm Vítor Jungles</h1>
 
-  :rocket: I'm a front-end developer who never stops learning.
-
-  ``console.log("Let's code")``
-
   **Skills:**
 
   <p>
