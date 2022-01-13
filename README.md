@@ -12,14 +12,6 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
   </p>
 
-  **Social Media:**
-
-  <p>
-    <a href="https://www.linkedin.com/in/v%C3%ADtor-jungles/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-  </p>
-
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=vitorjungles&show_icons=true&theme=react&custom_title=Vítor+Jungles's+GitHub+Stats" width="400" height="200" />
   </p>
